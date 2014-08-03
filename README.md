@@ -19,3 +19,7 @@ Inserts a `getInitialState` function that returns an empty object.
 ## JSX Completions
 
 JSX completions are provided for all HTML elements, triggerable from within JavaScript.
+
+## License
+
+MIT licensed. See `LICENSE` for more details.
