@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-var ${1} = React.createClass({
+var ${1:ClassName} = React.createClass({
   render: function() {
     return (
       ${0}
