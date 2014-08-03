@@ -1,7 +1,0 @@
-<snippet>
-  <content><![CDATA[
-this.forceUpdate();
-]]></content>
-  <tabTrigger>react.forceUpdate</tabTrigger>
-  <scope>source.js</scope>
-</snippet>

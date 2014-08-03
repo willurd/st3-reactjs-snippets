@@ -1,7 +1,0 @@
-<snippet>
-  <content><![CDATA[
-this.replaceState(${0:object nextState});
-]]></content>
-  <tabTrigger>react.replaceState</tabTrigger>
-  <scope>source.js</scope>
-</snippet>
