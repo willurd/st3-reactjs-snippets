@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+React.renderComponentToStaticMarkup(${0:ReactComponent component});
+]]></content>
+  <tabTrigger>react.renderComponentToStaticMarkup</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

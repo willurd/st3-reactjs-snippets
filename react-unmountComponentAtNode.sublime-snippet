@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+React.unmountComponentAtNode(${0:DOMElement container});
+]]></content>
+  <tabTrigger>react.unmountComponentAtNode</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

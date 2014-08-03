@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+ReactComponent renderComponent(
+  ${1:ReactComponent component},
+  ${0:DOMElement container}
+);
+]]></content>
+  <tabTrigger>react.renderComponent</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

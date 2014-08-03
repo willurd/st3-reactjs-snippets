@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+/** @jsx React.DOM */
+
+${0}
+]]></content>
+  <tabTrigger>@jsx</tabTrigger>
+  <scope>source.js</scope>
+</snippet>
