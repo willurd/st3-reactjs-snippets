@@ -4,105 +4,25 @@ A collection of ReactJS snippets for Sublime Text 3.
 
 ## Snippets
 
-**@jsx**
-
-Inserts the `/** @jsx React.DOM */` comment.
-
-**react.class**
-
-Inserts a call to `React.createClass` with an empty render function.
-
-Suggested shortcut: *recl*
-
-**react.componentDidMount**
-
-Inserts the `componentDidMount` declaration.
-
-Suggested shortcut: *ridmo*
-
-**react.componentDidUpdate**
-
-Inserts the `componentDidUpdate` declaration.
-
-Suggested shortcut: *ridup*
-
-**react.componentWillMount**
-
-Inserts the `componentWillMount` declaration.
-
-Suggested shortcut: *rilmo*
-
-**react.componentWillReceiveProps**
-
-Inserts the `componentWillReceiveProps` declaration.
-
-Suggested shortcut: *rilrec*
-
-**react.componentWillUnmount**
-
-Inserts the `componentWillUnmount` declaration.
-
-Suggested shortcut: *rilun*
-
-**react.componentWillUpdate**
-
-Inserts the `componentWillUpdate` declaration.
-
-Suggested shortcut: *rilup*
-
-**react.customProperty**
-
-Inserts the `customProperty` declaration.
-
-Suggested shortcut: *rust*
-
-**react.getDefaultProps**
-
-Inserts the `getDefaultProps` declaration.
-
-Suggested shortcut: *rgdp*
-
-**react.getInitialState**
-
-Inserts the `getInitialState` declaration.
-
-Suggested shortcut: *rgis*
-
-**react.render**
-
-Inserts the `render` declaration.
-
-Suggested shortcut: *rere*
-
-**react.renderComponent**
-
-Inserts a call to `React.renderComponent`.
-
-Suggested shortcut: *recom*
-
-**react.renderComponentToStaticMarkup**
-
-Inserts a call to `React.renderComponentToStaticMarkup`.
-
-Suggested shortcut: *recomar*
-
-**react.renderComponentToString**
-
-Inserts a call to `React.renderComponentToString`.
-
-Suggested shortcut: *recoming*
-
-**react.shouldComponentUpdate**
-
-Inserts the `shouldComponentUpdate` declaration.
-
-Suggested shortcut: *rsho*
-
-**react.unmountComponentAtNode**
-
-Inserts a call to `React.unmountComponentAtNode`.
-
-Suggested shortcut: *runco*
+Tab trigger | Suggested shortcut | Description
+--- | --- | ---
+`@jsx` |  | Inserts the `/** @jsx React.DOM */` comment.
+`react.class` | `recl` | Inserts a call to `React.createClass` with an empty render function.
+`react.componentDidMount` | `ridmo` | Inserts the `componentDidMount` declaration.
+`react.componentDidUpdate` | `ridup` | Inserts the `componentDidUpdate` declaration.
+`react.componentWillMount` | `rilmo` | Inserts the `componentWillMount` declaration.
+`react.componentWillReceiveProps` | `rilrec` | Inserts the `componentWillReceiveProps` declaration.
+`react.componentWillUnmount` | `rilun` | Inserts the `componentWillUnmount` declaration.
+`react.componentWillUpdate` | `rilup` | Inserts the `componentWillUpdate` declaration.
+`react.customProperty` | `rust` | Inserts the `customProperty` declaration.
+`react.getDefaultProps` | `rgdp` | Inserts the `getDefaultProps` declaration.
+`react.getInitialState` | `rgis` | Inserts the `getInitialState` declaration.
+`react.render` | `rere` | Inserts the `render` declaration.
+`react.renderComponent` | `recom` | Inserts a call to `React.renderComponent`.
+`react.renderComponentToStaticMarkup` | `recomar` | Inserts a call to `React.renderComponentToStaticMarkup`.
+`react.renderComponentToString` | `recoming` | Inserts a call to `React.renderComponentToString`.
+`react.shouldComponentUpdate` | `rsho` | Inserts the `shouldComponentUpdate` declaration.
+`react.unmountComponentAtNode` | `runco` | Inserts a call to `React.unmountComponentAtNode`.
 
 ## JSX Completions
 
