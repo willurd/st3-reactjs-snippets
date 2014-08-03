@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+getDefaultProps: function() {
+  return {
+    ${0}
+  };
+},
+]]></content>
+  <tabTrigger>react.getDefaultProps</tabTrigger>
+  <scope>source.js</scope>
+</snippet>
